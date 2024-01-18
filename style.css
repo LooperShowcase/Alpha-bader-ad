@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(255, 195, 127);
+}
+#mydiv10 {
+  color: blue;
+}
+#mydiv20 {
+  color: brown;
+}
+
+#mydiv30{
+color: rgb(30, 108, 210);
+
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
